@@ -14,13 +14,11 @@
 Tôi nghĩ là bạn sẽ chạy tốt nhất trên iOS và đặc biệt là iPhone 11.
 
 ## Kết Quả Đạt Được
-<p>
-   <img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/general.png">
-</p>
-<img width='45%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/dark_mode.png">
+<img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/general.png">
 <p align="left">
-  <img width='23%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/setting.png">
-  <img width='23%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/message.png">
+  <img width='49%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/setting.png">
+  <img width='49%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/message.png">
 </p>
-  <img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/login.png">
-  <img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/pet_details.png">
+<img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/dark_mode.png">
+<img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/login.png">
+<img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/pet_details.png">
