@@ -19,8 +19,8 @@ Tôi nghĩ là bạn sẽ chạy tốt nhất trên iOS và đặc biệt là iP
    <img width='45%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/dark_mode.png">
 </p>
 <p align="left">
-  <img width='25%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/setting.png">
-  <img width='25%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/message.png">
-  <img width='25%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/login.png">
-  <img width='25%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/pet_details.png">
+  <img width='23%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/setting.png">
+  <img width='23%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/message.png">
+  <img width='23%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/login.png">
+  <img width='23%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/pet_details.png">
 </p>
