@@ -22,5 +22,5 @@ Tôi nghĩ là bạn sẽ chạy tốt nhất trên iOS và đặc biệt là iP
 <p align="left">
   <img width='25%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/setting.png">
   <img width='25%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/message.png">
-  <img width='50%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/login.png">
+  <img width='40%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/login.png">
 </p>
