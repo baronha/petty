@@ -15,6 +15,6 @@ My advice is that you should only run on iPhone 11(Simulator).
 
 ## Result
 <p align="left">
-  <img width='200' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/general.png">
+  <img width='100%' title="Preview" src="https://github.com/baronha/petty/blob/master/images_preview/general.png">
   <img width=200 title="Preview" src="https://github.com/baronha/petty/tree/master/images_preview/search.png">
 </p>
