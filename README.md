@@ -2,7 +2,7 @@
 
 ## Mô tả sơ sơ
 
-   Đây là **Đồ án tốt nghiệp** mà tôi đã dành hàng tháng trời để hoàn thành. Sản phẩm tập trung vào việc xây dựng một ứng dụng giúp mọi người có thể nhận nuôi thú cưng một cách đơn giản nhất có thể, thông qua đó có thể giúp mọi người liên lạc với nhau thông qua ứng dụng, gây dựng thêm mối quan hệ xã hội. Tầm nhìn của tôi là xây dựng ra một mạng xã hội thú cưng nhầm kết nối những trái tim nhân đạo, yêu thương động vật lại với nhau, và còn là sân chơi cho các bạn nhỏ 🐱
+   Đây là **Đồ án tốt nghiệp** mà tôi đã dành hàng tháng trời để hoàn thành. Sản phẩm tập trung vào việc xây dựng một ứng dụng giúp mọi người có thể nhận nuôi thú cưng một cách đơn giản nhất có thể, thông qua đó có thể giúp mọi người liên lạc với nhau thông qua ứng dụng, gây dựng thêm mối quan hệ xã hội. Tầm nhìn của tôi là xây dựng ra một mạng xã hội thú cưng nhầm kết nối những trái tim nhân đạo, yêu thương động vật lại với nhau, và còn là sân chơi cho các "bạn nhỏ" 🐱
 
 **Công nghệ sử dụng**
 
